@@ -1,0 +1,8 @@
+[
+    {
+      "ip": "192.168.1.2",      "nama": "GDB.lt2-01",      "username": "admin",      "password": "admin"
+    },
+    {
+      "ip": "192.168.1.3",      "nama": "GDD.lt2-04",      "username": "admin",      "password": "admin"
+    }
+]
